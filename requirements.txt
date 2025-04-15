@@ -1,0 +1,4 @@
+opencv-python
+numpy
+matplotlib.pyplot as plt
+pyautogui as robot
